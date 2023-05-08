@@ -1,0 +1,10 @@
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/config/AppConfig.java
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/reader/HttpItemReader.java
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/config/CarBatchConfiguration.java
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/config/KafkaConfig.java
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/model/CarDTO.java
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/writer/PersonItemWriter.java
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/config/PersonBatchConfiguration.java
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/SpringBatchApplication.java
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/processor/PersonItemProcessor.java
+/Users/danilocasillo/Desktop/Personale/Spring/spring-batch-scheduled/src/main/java/com/example/springbatch/model/PersonDTO.java

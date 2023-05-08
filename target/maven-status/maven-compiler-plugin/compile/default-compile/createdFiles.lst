@@ -1,0 +1,10 @@
+com/example/springbatch/reader/HttpItemReader.class
+com/example/springbatch/model/CarDTO.class
+com/example/springbatch/SpringBatchApplication.class
+com/example/springbatch/writer/PersonItemWriter.class
+com/example/springbatch/model/PersonDTO.class
+com/example/springbatch/config/AppConfig.class
+com/example/springbatch/config/PersonBatchConfiguration.class
+com/example/springbatch/config/KafkaConfig.class
+com/example/springbatch/config/CarBatchConfiguration.class
+com/example/springbatch/processor/PersonItemProcessor.class
