@@ -4,7 +4,7 @@ This repository contains an example about Spring Batch execution with 2 jobs. Ea
 The first job has a reader and a writer step, the second jab has also an intermediate processor step. 
 
 # Pre-requisites 
-For the correct execution of the application, a Kafka broker must be available and reachable. For this reason, if a remote Kafka is not available, you must use Docker desktop and build the Dockerfile available in the repository. 
+For the correct execution of the application, a Kafka broker must be available and reachable. For this reason, if a remote Kafka is not available, you must use Docker desktop and build the docker-compose available in the repository. 
 
 # How to run 
 At beginning, start the python server. This server export two APIs, used by the spring batch application for getting the data. 
